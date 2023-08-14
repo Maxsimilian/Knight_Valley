@@ -1,12 +1,3 @@
-'''
-Maxsimilian - Game Screens(Menu, GameOver, Winning), Sounds(game background sounds), game lives system, sound effects (jump, attack), game frame label(title, description, instructions and credits), background images, README file for the game.
-
-Westleigh - [main character sprite + enemy sprite], [enemy player iteraction - jump on head], boss sprite and movement/collision, [enemy gets to end wall changes direction], enemy on platform (if time add character customisation).
-
-Jakub - Platforms, Walls, Boss stage, Gem Stage and its collision, entrance for final stage.
-'''
-
-
 import simplegui, random
 from user305_o32FtUyCKk_0 import Vector
 WIDTH = 800
